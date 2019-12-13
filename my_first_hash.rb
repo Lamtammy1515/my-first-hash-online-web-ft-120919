@@ -7,9 +7,9 @@ def my_hash
 
 def the_manifest(array)
  
- the_manifest = {}
-  the_manifest["whale bone corsets"]=5
-  the_manifest["oil paintings"]=3
+ shipping_manifest_manifest = {}
+ shipping_manifest_manifest["whale bone corsets"]=5
+  shipping_manifest_manifest["oil paintings"]=3
   the_manifest["porcelain vases"]=2
  
 
@@ -19,7 +19,7 @@ def the_manifest(array)
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
 
 
-return the_manifest.keys
+return shipping_manifest_manifest.keys
 
 end
 
