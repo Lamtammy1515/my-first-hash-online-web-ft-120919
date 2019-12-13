@@ -11,7 +11,7 @@ def my_hash
 def shipping_manifest(array)
  
 
- shipping_manifest = {
+ the_manifest = {
                   "whale bone corsets" => 5, 
                    "oil paintings" =>3,
                  "porcelain vases" => 2  
@@ -23,7 +23,7 @@ def shipping_manifest(array)
 
 
 return shipping_manifest.keys
-return shipping_manifest.values
+
 end
 
 
