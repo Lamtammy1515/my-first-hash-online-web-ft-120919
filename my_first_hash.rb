@@ -19,7 +19,7 @@ def shipping_manifest(array)
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
 
 
-return shipping_manifest_manifest.keys[5, 3, 2]
+return shipping_manifest_manifest.keys[]
 
 end
 
