@@ -5,7 +5,7 @@ def my_hash
  end
 
 
-def shipping_manifest(array)
+def the_manifest(array)
  
  the_manifest = {}
   the_manifest["whale bone corsets"]=5
