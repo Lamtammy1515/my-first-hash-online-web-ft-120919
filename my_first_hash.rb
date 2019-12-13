@@ -7,9 +7,11 @@ def my_hash
 
 def shipping_manifest(array)
  
- shipping_manifest = {
+ shipping_manifest = {}
 
-
+  shipping_manifest["whale bone corsets"]=5
+  shipping_manifest["oil paintings"]=3
+  shipping_manifest["porcelain vases"]=2
 
 
   # set a variable called `the_manifest`, equal to a hash
