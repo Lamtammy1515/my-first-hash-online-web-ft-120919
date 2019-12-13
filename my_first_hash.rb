@@ -23,7 +23,7 @@ def shipping_manifest(array)
 
 
 return shipping_manifest.keys
-
+return shipping_manifest.values
 end
 
 
