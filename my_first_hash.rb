@@ -12,8 +12,8 @@ def shipping_manifest(array)
  
  shipping_manifest = {}
 
-  shipping_manifest["whale bone corsets"]
-  shipping_manifest["oil paintings"]
+  shipping_manifest["whale bone corsets"]=5
+  shipping_manifest["oil paintings"]=
   shipping_manifest["porcelain vases"]
 
 
