@@ -8,7 +8,9 @@ def my_hash
  end
 
 
-def shipping_manifest(array)
+ "whale bone corsets" => 5, 
+                  "porcelain vases" => 2, 
+                  "oil paintings" => 3
  
 
   the_manifest = {}
